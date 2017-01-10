@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="BHSApplication.BHSHomePage"
+             BackgroundImage="@drawable/Background.jpg"
+             Title="BHS Home Page"
+             >
+
+  <ContentPage.Content >
+    <ScrollView Orientation="Vertical" VerticalOptions="FillAndExpand">
+      <StackLayout Orientation="Vertical" VerticalOptions="FillAndExpand" Padding="10,10,10,10">
+
+        <Label Text='About Us'
+               FontSize='25'
+               TextColor="#FFFFFF" />
+
+        <Label TextColor='#FFFFFF' FontSize='15' Text="Blue Horseshoe is a privately held solution services and software firm based in Carmel, Indiana. We provide management and strategy consulting and integrated supply chain solutions to Fortune 500 and mid-market businesses across the globe. Blue Horseshoe provides custom solutions tailored for food and beverage distribution, retail supply chain, CPG distribution and logistics and transportation. Our deep distribution and supply chain experience allows us to engineer business solutions that make software work for your business." />
+
+        <Label TextColor='#FFFFFF' FontSize='15' Text="Created by a group of seasoned business leaders with over two decades of unique business, engineering, and supply chain experience; we are committed to being a different kind of consulting organization. We are consulting professionals, not professional consultants. We assess business needs and apply world-class business applications to improve profitability and increase efficiency." />
+
+        <Label TextColor='#FFFFFF' FontSize='15' Text="Blue Horseshoe does not outsource work. You will always have directly employed Blue Horseshoe staff members engaged on your project. With impressively low employee turn-over rates, we ensure that your project team will stay intact—and in touch. Blue Horseshoe continually invests in our recruiting and training process with a commitment to our team members through continued education and technical training opportunities." />
+
+        <Label TextColor='#FFFFFF' FontSize='15' Text="Blue Horseshoe was founded in 2001 with office locations in Carmel (IN), Columbus (OH), Denver (CO), Charlotte (NC) and Amsterdam (Netherlands)." />
+
+        <Label Text="Recognition of Excellence: " TextColor='#FFFFFF' FontSize='15' />
+        <Label Text='- 3-time honoree of Inc. Magazine’s 500/5000 list of the Fastest Growing Private Companies in America' TextColor='#FFFFFF' FontSize='15' />
+        <Label Text='- 5-time recipient of the "Top Workplaces" award given by the Indianapolis Star' TextColor='#FFFFFF' FontSize='15' />
+        <Label Text='- Voted "Best Places to Work 2016" by Indiana Chamber' TextColor='#FFFFFF' FontSize='15' />
+        <Label Text='- Member of prestigious Microsoft Inner Circle (Top 1% of Microsoft Partners Worldwide)' TextColor='#FFFFFF' FontSize='15' />
+        <Label Text='- Selected as Microsoft Distribution Partner of the Year in 2012' TextColor='#FFFFFF' FontSize='15' />
+
+        <Label Text='BHS Locations'
+               FontSize='25'
+               TextColor='#FFFFFF' />
+        <Button Image='@drawable/indy.png'
+                Text='Indiana Office'
+                x:Name="indyButton"
+                Clicked="indyMap"
+                Style="{StaticResource buttonStyle}"
+                />
+        <Button Image='@drawable/columbus.png'
+                Text='Ohio Office'
+                Style="{StaticResource buttonStyle}"
+                Clicked="ohioMap"
+                />
+        <Button Image='@drawable/denver.png'
+                Text='Colorado Office'
+                Style="{StaticResource buttonStyle}"
+                Clicked="denverMap"
+                />
+        <Button Image='@drawable/charlotte.png'
+                Text='North Carolina Office'
+                Style="{StaticResource buttonStyle}"
+                Clicked="ncMap"
+                />
+        <Button Image='@drawable/amsterdam.png'
+                Text='Amsterdam Office'
+                Style="{StaticResource buttonStyle}"
+                Clicked="amsterdamMap"
+                />
+      </StackLayout>
+    </ScrollView>
+  </ContentPage.Content>
+</ContentPage>

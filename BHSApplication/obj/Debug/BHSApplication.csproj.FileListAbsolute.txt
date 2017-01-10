@@ -1,0 +1,64 @@
+C:\Users\pflockenhaus\Documents\Visual Studio 2015\Projects\BHSApplication\BHSApplication\BHSApplication\bin\Debug\BHSApplication.dll
+C:\Users\pflockenhaus\Documents\Visual Studio 2015\Projects\BHSApplication\BHSApplication\BHSApplication\bin\Debug\BHSApplication.pdb
+C:\Users\pflockenhaus\Documents\Visual Studio 2015\Projects\BHSApplication\BHSApplication\BHSApplication\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\pflockenhaus\Documents\Visual Studio 2015\Projects\BHSApplication\BHSApplication\BHSApplication\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\pflockenhaus\Documents\Visual Studio 2015\Projects\BHSApplication\BHSApplication\BHSApplication\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\pflockenhaus\Documents\Visual Studio 2015\Projects\BHSApplication\BHSApplication\BHSApplication\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\pflockenhaus\Documents\Visual Studio 2015\Projects\BHSApplication\BHSApplication\BHSApplication\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\pflockenhaus\Documents\Visual Studio 2015\Projects\BHSApplication\BHSApplication\BHSApplication\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\pflockenhaus\Documents\Visual Studio 2015\Projects\BHSApplication\BHSApplication\BHSApplication\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\pflockenhaus\Documents\Visual Studio 2015\Projects\BHSApplication\BHSApplication\BHSApplication\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\pflockenhaus\Documents\Visual Studio 2015\Projects\BHSApplication\BHSApplication\BHSApplication\obj\Debug\BHSApplication.csprojResolveAssemblyReference.cache
+C:\Users\pflockenhaus\Documents\Visual Studio 2015\Projects\BHSApplication\BHSApplication\BHSApplication\obj\Debug\BHSApplication.MainPage.xaml.g.cs
+C:\Users\pflockenhaus\Documents\Visual Studio 2015\Projects\BHSApplication\BHSApplication\BHSApplication\obj\Debug\BHSApplication.App.xaml.g.cs
+C:\Users\pflockenhaus\Documents\Visual Studio 2015\Projects\BHSApplication\BHSApplication\BHSApplication\obj\Debug\BHSApplication.BHSHomePage.xaml.g.cs
+C:\Users\pflockenhaus\Documents\Visual Studio 2015\Projects\BHSApplication\BHSApplication\BHSApplication\obj\Debug\BHSApplication.BHSContactUs.xaml.g.cs
+C:\Users\pflockenhaus\Documents\Visual Studio 2015\Projects\BHSApplication\BHSApplication\BHSApplication\obj\Debug\BHSApplication.dll
+C:\Users\pflockenhaus\Documents\Visual Studio 2015\Projects\BHSApplication\BHSApplication\BHSApplication\obj\Debug\BHSApplication.pdb
+C:\Users\pflockenhaus\Documents\Visual Studio 2015\Projects\BHSApplication\BHSApplication\BHSApplication\obj\Debug\BHSApplication.dll.mdb
+C:\Users\pflockenhaus\Documents\Visual Studio 2015\Projects\BHSApplication\BHSApplication\BHSApplication\bin\Debug\BHSApplication.dll.mdb
+C:\Users\pflockenhaus\Desktop\BHSApplication\BHSApplication\BHSApplication\obj\Debug\BHSApplication.MainPage.xaml.g.cs
+C:\Users\pflockenhaus\Desktop\BHSApplication\BHSApplication\BHSApplication\obj\Debug\BHSApplication.App.xaml.g.cs
+C:\Users\pflockenhaus\Desktop\BHSApplication\BHSApplication\BHSApplication\obj\Debug\BHSApplication.BHSHomePage.xaml.g.cs
+C:\Users\pflockenhaus\Desktop\BHSApplication\BHSApplication\BHSApplication\obj\Debug\BHSApplication.BHSContactUs.xaml.g.cs
+C:\Users\pflockenhaus\Desktop\BHSApplication\BHSApplication\BHSApplication\obj\Debug\BHSApplication.BHSTwitterPage.xaml.g.cs
+C:\Users\pflockenhaus\Desktop\BHSApplication\BHSApplication\BHSApplication\obj\Debug\BHSApplication.MasterPage.xaml.g.cs
+C:\Users\pflockenhaus\Desktop\BHSApplication\BHSApplication\BHSApplication\obj\Debug\BHSApplication.dll
+C:\Users\pflockenhaus\Desktop\BHSApplication\BHSApplication\BHSApplication\obj\Debug\BHSApplication.pdb
+C:\Users\pflockenhaus\Desktop\BHSApplication\BHSApplication\BHSApplication\bin\Debug\BHSApplication.dll
+C:\Users\pflockenhaus\Desktop\BHSApplication\BHSApplication\BHSApplication\bin\Debug\BHSApplication.pdb
+C:\Users\pflockenhaus\Desktop\BHSApplication\BHSApplication\BHSApplication\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\pflockenhaus\Desktop\BHSApplication\BHSApplication\BHSApplication\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\pflockenhaus\Desktop\BHSApplication\BHSApplication\BHSApplication\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\pflockenhaus\Desktop\BHSApplication\BHSApplication\BHSApplication\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\pflockenhaus\Desktop\BHSApplication\BHSApplication\BHSApplication\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\pflockenhaus\Desktop\BHSApplication\BHSApplication\BHSApplication\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\pflockenhaus\Desktop\BHSApplication\BHSApplication\BHSApplication\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\pflockenhaus\Desktop\BHSApplication\BHSApplication\BHSApplication\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\pflockenhaus\Desktop\BHSApplication\BHSApplication\BHSApplication\obj\Debug\BHSApplication.NotRelevant.xaml.g.cs
+E:\BHS App Practice Projects\BHSApplication\BHSApplication\BHSApplication\bin\Debug\BHSApplication.dll
+E:\BHS App Practice Projects\BHSApplication\BHSApplication\BHSApplication\bin\Debug\BHSApplication.pdb
+E:\BHS App Practice Projects\BHSApplication\BHSApplication\BHSApplication\bin\Debug\Xamarin.Forms.Core.dll
+E:\BHS App Practice Projects\BHSApplication\BHSApplication\BHSApplication\bin\Debug\Xamarin.Forms.Platform.dll
+E:\BHS App Practice Projects\BHSApplication\BHSApplication\BHSApplication\bin\Debug\Xamarin.Forms.Xaml.dll
+E:\BHS App Practice Projects\BHSApplication\BHSApplication\BHSApplication\bin\Debug\Xamarin.Forms.Core.pdb
+E:\BHS App Practice Projects\BHSApplication\BHSApplication\BHSApplication\bin\Debug\Xamarin.Forms.Core.xml
+E:\BHS App Practice Projects\BHSApplication\BHSApplication\BHSApplication\bin\Debug\Xamarin.Forms.Platform.pdb
+E:\BHS App Practice Projects\BHSApplication\BHSApplication\BHSApplication\bin\Debug\Xamarin.Forms.Xaml.pdb
+E:\BHS App Practice Projects\BHSApplication\BHSApplication\BHSApplication\bin\Debug\Xamarin.Forms.Xaml.xml
+E:\BHS App Practice Projects\BHSApplication\BHSApplication\BHSApplication\obj\Debug\BHSApplication.csprojResolveAssemblyReference.cache
+E:\BHS App Practice Projects\BHSApplication\BHSApplication\BHSApplication\obj\Debug\BHSApplication.NotRelevant.xaml.g.cs
+E:\BHS App Practice Projects\BHSApplication\BHSApplication\BHSApplication\obj\Debug\BHSApplication.App.xaml.g.cs
+E:\BHS App Practice Projects\BHSApplication\BHSApplication\BHSApplication\obj\Debug\BHSApplication.BHSHomePage.xaml.g.cs
+E:\BHS App Practice Projects\BHSApplication\BHSApplication\BHSApplication\obj\Debug\BHSApplication.BHSContactUs.xaml.g.cs
+E:\BHS App Practice Projects\BHSApplication\BHSApplication\BHSApplication\obj\Debug\BHSApplication.BHSTwitterPage.xaml.g.cs
+E:\BHS App Practice Projects\BHSApplication\BHSApplication\BHSApplication\obj\Debug\BHSApplication.MainPage.xaml.g.cs
+E:\BHS App Practice Projects\BHSApplication\BHSApplication\BHSApplication\obj\Debug\BHSApplication.MasterPage.xaml.g.cs
+E:\BHS App Practice Projects\BHSApplication\BHSApplication\BHSApplication\obj\Debug\BHSApplication.dll
+E:\BHS App Practice Projects\BHSApplication\BHSApplication\BHSApplication\obj\Debug\BHSApplication.pdb
+C:\Users\pflockenhaus\Desktop\BHSApplication\BHSApplication\BHSApplication\obj\Debug\BHSApplication.csprojResolveAssemblyReference.cache
+C:\Users\pflockenhaus\Desktop\BHSApplication\BHSApplication\BHSApplication\obj\Debug\BHSApplication.BHSBlogPage.xaml.g.cs
+C:\Users\pflockenhaus\Desktop\BHSApplication\BHSApplication\BHSApplication\obj\Debug\BHSApplication.BHSFacebookPage.xaml.g.cs
+C:\Users\pflockenhaus\Desktop\BHSApplication\BHSApplication\BHSApplication\obj\Debug\BHSApplication.BHSYoutubePage.xaml.g.cs
+C:\Users\pflockenhaus\Desktop\BHSApplication\BHSApplication\BHSApplication\obj\Debug\BHSApplication.dll.mdb
+C:\Users\pflockenhaus\Desktop\BHSApplication\BHSApplication\BHSApplication\bin\Debug\BHSApplication.dll.mdb

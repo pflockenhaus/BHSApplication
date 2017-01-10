@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="BHSApplication.BHSContactUs"
+             BackgroundImage="@drawable/Background.jpg"
+             Title="Contact Us"
+             >
+  <ContentPage.Content>
+    <ScrollView>
+      <StackLayout Spacing="10" Padding="10,10,10,10">
+        <Button Image='@drawable/arrow.png'
+                Text='Contact Us'
+                Style='{StaticResource buttonStyle}'/>
+        <Button Image='@drawable/www.png'
+                Text='www.bhsolutions.com'
+                Style='{StaticResource buttonStyle}'/>
+        <Button Image='@drawable/phone.png'
+                Text='Ph: +1-317-573-2583'
+                Style='{StaticResource buttonStyle}'/>
+
+        <StackLayout Spacing="0">
+          <Label Text='Indiana Office' FontSize='20' FontAttributes='Italic' Style='{StaticResource labelStyle}'/>
+          <Label Text='11590 N. Meridian St.' Style='{StaticResource labelStyle}'/>
+          <Label Text='Carmel, IN 46032' Style='{StaticResource labelStyle}'/>
+          <Label Text='Phone: +1-317-573-2583' Style='{StaticResource labelStyle}'/>
+          <Label Text='Fax: +1-317-573-2590' Style='{StaticResource labelStyle}'/>
+        </StackLayout>
+
+        <StackLayout Spacing="0">
+          <Label Text='Ohio Office' FontSize='20' FontAttributes='Italic' Style='{StaticResource labelStyle}'/>
+          <Label Text='600 N. Cleveland Avenue, Suite 190' Style='{StaticResource labelStyle}'/>
+          <Label Text='Westerville, OH 43082' Style='{StaticResource labelStyle}'/>
+          <Label Text='Phone: +1-614-751-0575' Style='{StaticResource labelStyle}'/>
+        </StackLayout>
+
+        <StackLayout Spacing="0">
+          <Label Text='Colorado Office' FontSize='20' FontAttributes='Italic' Style='{StaticResource labelStyle}'/>
+          <Label Text='11080 Circle Point Road, Suite 405' Style='{StaticResource labelStyle}'/>
+          <Label Text='Westminster, CO 80020' Style='{StaticResource labelStyle}'/>
+          <Label Text='Phone: +1-720-763-9934' Style='{StaticResource labelStyle}'/>
+        </StackLayout>
+
+        <StackLayout Spacing="0">
+          <Label Text='North Carolina Office' FontSize='20' FontAttributes='Italic' Style='{StaticResource labelStyle}'/>
+          <Label Text='13024 Ballantyne Corporate Place, Suite 575' Style='{StaticResource labelStyle}'/>
+          <Label Text='Charlotte, NC 28277' Style='{StaticResource labelStyle}'/>
+          <Label Text='Phone: +1-980-312-8202' Style='{StaticResource labelStyle}'/>
+        </StackLayout>
+
+        <StackLayout Spacing="0">
+          <Label Text='Amsterdam Office' FontSize='20' FontAttributes='Italic' Style='{StaticResource labelStyle}'/>
+          <Label Text='Strawinskylaan 3051, 1077 ZX' Style='{StaticResource labelStyle}'/>
+          <Label Text='Amsterdam' Style='{StaticResource labelStyle}'/>
+          <Label Text='Phone: +31 20-301-2182' Style='{StaticResource labelStyle}'/>
+        </StackLayout>
+        
+      </StackLayout>
+    </ScrollView>
+  </ContentPage.Content>
+
+</ContentPage>

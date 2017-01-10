@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:BHSApplication"
+             x:Class="BHSApplication.NotRelevant">
+  <ContentPage.Content>
+    <ScrollView>
+      <StackLayout>
+        <Label Text="Welcome to the Blue Horseshoe Solutions, Inc. application!"
+                 VerticalOptions="Center"
+                 HorizontalOptions="Center" />
+        <Button x:Name="homeButton" Text="BHS Home" Clicked="OnHomePage" />
+        <Button x:Name="contactButton" Text="Contact Us" Clicked="OnContact" />
+        <Button x:Name="facebookButton" Text="Facebook" IsEnabled="false" />
+        <Button x:Name="twitterButton" Text="Twitter" IsEnabled="false" />
+        <Button x:Name="youtubeButton" Text="YouTube" IsEnabled="false" />
+        <Button x:Name="blogButton" Text="Blog" IsEnabled="false" />
+      </StackLayout>
+    </ScrollView>
+  </ContentPage.Content>
+</ContentPage>
